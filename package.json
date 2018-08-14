@@ -1,0 +1,19 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Proyecto bolsa de empleo Tec",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eduardocastrogt/bolsaempleotec.git"
+  },
+  "author": "Eduardo Castro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eduardocastrogt/bolsaempleotec/issues"
+  },
+  "homepage": "https://github.com/eduardocastrogt/bolsaempleotec#readme"
+}
